@@ -1,0 +1,6 @@
+com\Bank\Repository\BankRepository.class
+com\Bank\DAO\BankDAO.class
+com\Bank\Enitity\Bank.class
+com\Bank\Service\BankService.class
+com\Bank\BankApplication.class
+com\Bank\Controller\BankController.class
